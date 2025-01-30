@@ -44,3 +44,17 @@ Underline 2
 # IMAGENES
 
 ![Logo GITHUB](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
+
+# CODE SNIPPETS (Codigo incrustado)
+
+```HTML
+    <form action="#" method="get">
+        <input type="number" name="firstName" id="firstName">
+        <input type="text" name="lastName" id="lastName">
+        <input type="number" name="age" id="age">
+        <input type="date" name="birthdate" id="birthdate">
+        <img src="#" alt="Test Img" />
+        <video src="video/cat.mp4"></video>
+        <input type="button" value="Enviar">
+    </form>
+```
