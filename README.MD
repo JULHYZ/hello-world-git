@@ -67,3 +67,11 @@ Underline 2
 |FREDY|SALAZAR|70987654|
 |BENJAMIN|JURO|32123454|
 |GIULIA|SALAZAR|43212356|
+
+# CITAS
+
+Esto es un texto referente a una cita que pondremos debajo:
+>Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior:
+>Esto es otra cita.
