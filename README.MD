@@ -1,3 +1,6 @@
+# VERSION DEL CURSO
+Version Actual: v1.2.2
+
 # CABECERAS
 
 # Cabecera H1
