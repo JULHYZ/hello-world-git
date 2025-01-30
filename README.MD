@@ -58,3 +58,12 @@ Underline 2
         <input type="button" value="Enviar">
     </form>
 ```
+
+# TABLAS
+
+|NOMBRES|APELLIDO|DNI|
+|-------|--------|---|
+|JULITA|JURO|45130771|
+|FREDY|SALAZAR|70987654|
+|BENJAMIN|JURO|32123454|
+|GIULIA|SALAZAR|43212356|
